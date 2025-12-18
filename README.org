@@ -1,0 +1,9 @@
+* reblocks-auth
+
+An authentication framework for the Reblocks web framework.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-auth.git        |
+| commit  | a96be2f                                                |
+| systems | reblocks-auth                                          |
+|---------+--------------------------------------------------------|
