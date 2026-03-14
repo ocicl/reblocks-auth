@@ -4,7 +4,7 @@ An authentication framework for the Reblocks web framework.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/40ants/reblocks-auth.git |
-| commit  | 542f627                                         |
+| commit  | 8ccdb2e                                         |
 | systems | reblocks-auth                                   |
 |---------+-------------------------------------------------|
 ---------------------------------|
